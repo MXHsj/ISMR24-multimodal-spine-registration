@@ -1,0 +1,2 @@
+axial res [mm/pix],lateral res [mm/pix]
+0.170940170940171,0.276497695852535

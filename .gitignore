@@ -1,0 +1,10 @@
+# MATLAB
+*.asv
+*.mat
+
+# multimedia
+*.mp4
+
+# raw data
+*.dcm
+*.bag
